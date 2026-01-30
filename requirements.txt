@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+opencv-python
+pandas
+numpy
+pyspark==3.5.8
+matplotlib
+seaborn
+Pillow

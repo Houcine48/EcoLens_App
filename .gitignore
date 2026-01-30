@@ -1,0 +1,12 @@
+# Ignorer le dossier lourd du dataset
+Garbage classification/
+Dataset/
+data/
+
+# Ignorer les fichiers système VS
+.vs/
+__pycache__/
+*.pyc
+
+# Ignorer l'environnement virtuel
+venv/
